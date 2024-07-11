@@ -1,5 +1,5 @@
 <h2 align="center"> I'm Clarisse Anne D. Balaoro  
-<img src="https://th.bing.com/th/id/OIP.TS1-uCptrt0tnCVDf07FFwAAAA?rs=1&pid=ImgDetMain" alt="C++" width="100" height="100"/>
+<img src="https://gifdb.com/images/file/secret-life-of-pets-smiling-snowball-rabbit-holding-carrot-1dzkjhhzxc5hinjv.gif" alt="C++" width="100" height="100"/>
 </h2>
 
 <p align="center"> 
