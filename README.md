@@ -18,6 +18,6 @@
 
 </p>
 
-
+![Snake animation](https://github.com/lacnnea/lacnnea/blob/output/github-contribution-grid-snake.svg)
 
 
