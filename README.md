@@ -1,6 +1,7 @@
 <p align="center"> 
 <h2> I'm Clarisse Anne D. Balaoro  </h2>
 <img src="https://th.bing.com/th/id/OIP.TS1-uCptrt0tnCVDf07FFwAAAA?rs=1&pid=ImgDetMain" alt="C++" width="100" height="100"/>
+</p>
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
