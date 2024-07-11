@@ -1,6 +1,6 @@
-<h2> Clarisse Anne D. Balaoro  </h2>
+<span><h2> I'm Clarisse Anne D. Balaoro  </h2>
 <img src="https://th.bing.com/th/id/OIP.TS1-uCptrt0tnCVDf07FFwAAAA?rs=1&pid=ImgDetMain" alt="C++" width="45" height="45"/>
-<p align="center">
+<p align="center"> </p><span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
