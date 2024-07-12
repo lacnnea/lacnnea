@@ -20,4 +20,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 </p>
 
-![lixuuuuun](https://github.com/user-attachments/assets/c0ebf318-70af-4130-b1c8-5b2e30779199)
+![lixuuuuun](https://github.com/user-attachments/assets/ec3a2352-05b6-4d0d-9e1d-9160d1d17e42)
+
