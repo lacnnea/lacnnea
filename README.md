@@ -20,4 +20,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 </p>
 
-<img src="lixun.gif" alt="harti" width="100" height="100"/>       
+<img src=""C:\Users\Clarisse Balaoro\Downloads\lixun.gif"" alt="harti" width="100" height="100"/>       
