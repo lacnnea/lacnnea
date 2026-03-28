@@ -1,5 +1,5 @@
 <h2 align="center"> I'm Clarisse Anne 
-<img src="https://i.pinimg.com/originals/f9/a7/6e/f9a76e2347028007665cad9476e2eeff.jpg" alt="gif" width="100" height="100"/>
+<img src="https://i.pinimg.com/originals/f9/a7/6e/f9a76e2347028007665cad9476e2eeff.jpg" alt="gif" width="50" height="50"/>
 </h2>
 
 <p align="center"> 
